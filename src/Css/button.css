@@ -1,0 +1,28 @@
+.cusBTN {
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 2px solid #028045;
+    background-color: #02804518;
+    color: rgb(241, 104, 6);
+}
+
+.about {
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 2px solid #028045;
+    background-color: #02804518;
+    color: rgb(241, 104, 6);
+}
+
+.cardMod {
+    background-color: #00000031;
+    margin-right: 20px;
+}
+
+.contactMod {
+    background-color: #39d68d42;
+}
+
+.navMod {
+    background-color: #3f46434b;
+}
